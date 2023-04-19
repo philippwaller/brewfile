@@ -5,9 +5,9 @@ tap "lencx/chatgpt"
 
 # CLI Tools
 brew "ansible"
+brew "fzf"
 brew "git"
 brew "go"
-brew "helm"
 brew "helm"
 brew "mas"
 brew "node"

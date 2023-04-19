@@ -37,6 +37,7 @@ cask "keka"
 cask "microsoft-office"
 cask "microsoft-teams"
 cask "obs"
+cask "obsidian"
 cask "orcaslicer", args: { "no-quarantine": true }
 cask "parallels17"
 cask "pingid"

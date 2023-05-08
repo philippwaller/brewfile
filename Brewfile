@@ -1,4 +1,4 @@
-# tab sources
+# tap sources
 tap "homebrew/cask-drivers"
 tap "homebrew/homebrew-cask-versions"
 tap "lencx/chatgpt"

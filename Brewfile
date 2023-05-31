@@ -1,5 +1,4 @@
 # tab sources
-tap "homebrew/cask-drivers"
 tap "homebrew/homebrew-cask-versions"
 tap "lencx/chatgpt"
 
@@ -28,32 +27,35 @@ cask "autodesk-fusion360"
 cask "bambu-studio"
 cask "chatgpt", args: { "no-quarantine": true }
 cask "docker"
+cask "elgato-stream-deck"
+cask "elgato-wave-link"
 cask "firefox"
 cask "google-chrome"
 cask "home-assistant"
 cask "intellij-idea"
 cask "iterm2"
 cask "keka"
-cask "microsoft-office"
-cask "microsoft-teams"
+cask "microsoft-excel"
+cask "microsoft-onenote"
+cask "microsoft-outlook"
+cask "microsoft-powerpoint"
+cask "microsoft-word"
+cask "microsoft-auto-update"
 cask "obs"
 cask "obsidian"
+cask "onedrive"
 cask "orcaslicer", args: { "no-quarantine": true }
 cask "parallels17"
 cask "pingid"
 cask "postman"
 cask "sourcetree"
 cask "spotify"
+cask "synology-drive"
+cask "synology-surveillance-station-client"
 cask "tor-browser"
 cask "visual-studio-code"
 cask "vlc"
 cask "warp"
-
-# Drivers
-cask "elgato-stream-deck"
-cask "elgato-wave-link"
-cask "synology-drive"
-cask "synology-surveillance-station-client"
 
 # AppStore Apps
 mas "1Password for Safari", id: 1569813296
